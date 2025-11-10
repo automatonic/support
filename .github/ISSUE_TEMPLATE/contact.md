@@ -2,7 +2,7 @@
 name: Contact
 about: Contact the automatonic team
 title: 'RE: [my reason for contacting]'
-labels: general
+labels: contact
 assignees: el2iot2
 
 ---
